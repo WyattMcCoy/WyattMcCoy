@@ -22,9 +22,11 @@ Python · QGIS
 
 ## Elsewhere
 
-I also make **The Deep Dive**, a podcast that explains AI for beginners. [Listen](LINK)
+I also make **The Deep Dive**, a podcast that explains AI for beginners. [Listen]([LINK](https://substack.com/@wyattmccoyy))
 
-[LinkedIn](LINK) · [Email](mailto:YOUR_EMAIL)
+[LinkedIn]([removed]
+
+) · [Email](mailto:[removed])
 
 
 -->
