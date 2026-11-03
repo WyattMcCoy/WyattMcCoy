@@ -1,6 +1,5 @@
 [README.md](https://github.com/user-attachments/files/32942185/README.md)
-# Hi, I'm Travis
-
+# Hi, I'm Wyatt
 I spent eight years in residential care for court-placed youth, first running group homes for adolescent boys and then as a residential counselor. Now I'm finishing a BA in Psychology with a minor in Criminal Justice Studies at San Francisco State (2027) and learning to analyze crime and security data.
 
 I'm working toward a career as a criminal intelligence analyst, with a growing focus on AI security.
